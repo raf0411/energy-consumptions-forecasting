@@ -1,4 +1,4 @@
-# Research Methodology in Computer Science
+# Research Methodology in Computer Science Assurance of Learning (AoL)
 
 This Repo contains code and results for a paper research titled "AI-based Energy Consumptions Predictions in Smart Grids" for Research Methodology in Computer Science Course
 
